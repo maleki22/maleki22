@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohamad Maleki
 - 👀 I’m interested in computer programming
-- 🌱 I’m currently learning HTML/CSS and JavaScript
+- 🌱 I’m currently learning HTML/CSS, JavaScript and .NET/C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: maleki22@gmail.com
 
