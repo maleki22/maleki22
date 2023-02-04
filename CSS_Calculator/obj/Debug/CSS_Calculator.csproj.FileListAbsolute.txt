@@ -1,0 +1,11 @@
+C:\Users\Zigorat\source\repos\CSS_Calculator\CSS_Calculator\bin\Debug\CSS_Calculator.exe.config
+C:\Users\Zigorat\source\repos\CSS_Calculator\CSS_Calculator\bin\Debug\CSS_Calculator.exe
+C:\Users\Zigorat\source\repos\CSS_Calculator\CSS_Calculator\bin\Debug\CSS_Calculator.pdb
+C:\Users\Zigorat\source\repos\CSS_Calculator\CSS_Calculator\obj\Debug\CSS_Calculator.csproj.AssemblyReference.cache
+C:\Users\Zigorat\source\repos\CSS_Calculator\CSS_Calculator\obj\Debug\CSS_Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zigorat\source\repos\CSS_Calculator\CSS_Calculator\obj\Debug\CSS_Calculator.Form1.resources
+C:\Users\Zigorat\source\repos\CSS_Calculator\CSS_Calculator\obj\Debug\CSS_Calculator.Properties.Resources.resources
+C:\Users\Zigorat\source\repos\CSS_Calculator\CSS_Calculator\obj\Debug\CSS_Calculator.csproj.GenerateResource.cache
+C:\Users\Zigorat\source\repos\CSS_Calculator\CSS_Calculator\obj\Debug\CSS_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Zigorat\source\repos\CSS_Calculator\CSS_Calculator\obj\Debug\CSS_Calculator.exe
+C:\Users\Zigorat\source\repos\CSS_Calculator\CSS_Calculator\obj\Debug\CSS_Calculator.pdb
